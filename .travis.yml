@@ -1,4 +1,4 @@
 language: Java
 jdk:
   - openjdk6
-script: mvn compile jetty:run
+script: mvn compile
